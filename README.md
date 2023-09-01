@@ -30,9 +30,9 @@ images/: A directory for storing images used in the website.
 README.md: This README file.
 
 3. Quantity Discount
-The website offers a quantity discount when customers order more than 5 items. Here's how it works:
-
+The website offers a quantity discount when customers order more than or equal to 5 items.
+Here's how it works:
 If the quantity is less than 5, there's no discount.
 If the quantity is between 5 and 10 (both inclusive), you will get a 10% discount.
 If the quantity is more than 10, you will get a 20% discount.
-The discount is calculated automatically and displayed to the user when applicable.
+The discount is calculated automatically and displayed to the user.
